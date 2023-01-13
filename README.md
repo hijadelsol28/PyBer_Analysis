@@ -1,18 +1,18 @@
 # PyBer_Analysis
 
-##Overview
+## Overview
 The purpose of this analysis is to provide the ride-sharing business, PyBer, with 3 business recommendations in regard to the correlation between ride-sharing fees and the type of city in which customers live. Using analysis tools such as Pandas and Matplotlib, the following report summarizes ride-sharing data across 3 different types of cities: Urban, Suburban, and Rural.
 
 ## Results
 ### Average Fares by City Type
 
-**Image table
+![Table](PyBer_Analysis/averages_per_city_type.png)
 
 From this chart, we can gather that Urban cities have the highest number of rides and drivers thus providing the most revenue. It is also notable that Urban cities charged less than suburban and Rural cities. Suburban cities had significantly lower total fares but they also had a lower number of drivers and rides. Rural cities had the least number of total fares, rides, and drivers, resulting in the highest fare averages per ride and driver.
 
 ### Total Fare by City Type
 
-**Image chart
+![Chart](PyBer_Analysis/total_fare_city_type.png)
 
 There is a collective rise in Total Fares nearing the end of February and the beginning of March. Urban cities continuously rise and fall throughout the month of March before leveling out at a high rate from the beginning to the middle of April, then dropping off near the end of the month. Contrarily, Suburban and rural cities drop at the beginning of April after a slight increase right at the beginning of the month.
 
